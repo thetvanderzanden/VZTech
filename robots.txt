@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 
-# REPLACE YOURDOMAIN.com with your actual domain
-Sitemap: https://www.YOURDOMAIN.com/sitemap.xml
+Sitemap: https://claude.vztechsolutions.com/sitemap.xml
 
 Crawl-delay: 10
